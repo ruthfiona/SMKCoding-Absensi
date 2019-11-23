@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832823774632",
+    "firebase_url": "https://jobku-6a99a.firebaseio.com",
+    "project_id": "jobku-6a99a",
+    "storage_bucket": "jobku-6a99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832823774632:android:14455681a39be76822219d",
+        "android_client_info": {
+          "package_name": "com.example.jobku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832823774632-je2u4l842kasiugrbc4q8qdfkldrt7ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobku",
+            "certificate_hash": "1225167dfd21f58ae7c11271d4858dad01244f4f"
+          }
+        },
+        {
+          "client_id": "832823774632-4pla9jb1ba3a3q1qfknkrgcbms2lgu2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bJRv4GFFTqDwx48Yb8z9ZQeKkzezcCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832823774632-4pla9jb1ba3a3q1qfknkrgcbms2lgu2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
